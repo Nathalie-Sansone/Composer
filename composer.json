@@ -1,0 +1,13 @@
+{
+    "name": "nathalie/composer",
+    "description": "Composer quest 2",
+    "require": {
+        "ehime/hello-world": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Nathalie-Sansone",
+            "email": "nathalie.sansone@gmail.com"
+        }
+    ]
+}
